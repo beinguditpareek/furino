@@ -1,0 +1,48 @@
+.shop-bg{
+    background-image: url('home/bgImg.jpg');
+    /* opacity: 0.5; */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(255,255,255,0.6);
+    background-blend-mode: lighten;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shop-bg div{
+    margin: 50px 0px 50px 0px;
+}
+.box-icon i{
+    /* height: px;
+    width: 50px; */
+    padding: 20px 14px 0px 0px;
+}
+.trophy-container{
+    background-color: #e4c398;
+    padding: 10px 0px 10px 0px;
+
+}
+.head-para{
+    line-height: 10px;
+}
+.shipping-icon{
+    margin: 0px 10px 0px -15px;
+}
+.buttons{
+
+    text-align: center;
+}
+.buttons button{
+    padding: 20px;
+    margin: 0px 10px 0px 10px;
+    background-color: #e4c398;
+}
+.nextBtn{
+    background-color: #b88e2f;
+}
+.quantity{
+    
+}
